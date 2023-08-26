@@ -1,0 +1,6 @@
+in\ezeon\StartApp.class
+in\ezeon\Category.class
+com\mycompany\spendingtracker\Spendingtracker.class
+in\ezeon\Expense.class
+in\ezeon\Repository.class
+in\ezeon\SpendingtrackerService.class
