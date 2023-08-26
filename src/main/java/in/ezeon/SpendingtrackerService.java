@@ -144,6 +144,7 @@ public class SpendingtrackerService {
             String catName = getCategoryNameByID(exp.getCategoryID());
             String dateString = DateUtill.dateToString(exp.getDate());
             System.out.println((i+1)+". "+catName+", "+exp.getAmount()+", "+exp.getRemark()+". "+dateString);
+            System.out.println("github");
         }
     }
     
